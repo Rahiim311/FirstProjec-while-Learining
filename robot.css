@@ -1,0 +1,765 @@
+*{margin: 0;
+    padding: 0;
+    box-sizing: border-box;}
+
+   
+
+ body{
+
+height: auto;
+min-height: 100%;
+display: flex;
+} 
+
+        .firstclass{
+           
+min-height: 650px;   
+max-width: 516px;            
+display: flex;           
+text-align: center; 
+}
+
+
+        #im1{
+            height: 737px;
+            width: 989px;
+            position: relative;
+            top: -97px;
+            left: -134px;  }
+
+           
+.into{
+    height: 655px;
+    width: 730px;
+    display: flex; }
+
+
+
+
+.into2{
+    height: 653px;
+    width: 485px;
+    
+    display: flex;
+    position: relative;
+    top: 0px;
+    left: 6px; }
+
+#im2{
+    height: 647px;
+    width: 1061px;
+    position: relative;
+    top: -3px;
+    left: -195px; }
+
+.talk1{
+    width: 251px;
+    height: 335px;
+    font-size: 19px;
+    color: black;
+    position: relative;
+    top: 91px;
+    left: -195px;
+    display: flex;
+    justify-content: center;
+    font-family: "Kanit", sans-serif;
+    font-weight: 700;
+    flex-direction: column; }
+
+#future{
+    width: 171px;
+    height: 50px;
+    font-size: 16px;
+    font-weight: bold;
+    opacity: 54%;
+    position: relative;
+    top: -57px;
+    left: 26px;
+    display: flex; }
+
+
+#technolgy{
+    font-size: 57px;
+    width: 120px;
+    height: 70px;
+    opacity: 80%;
+    position: relative;
+    top: -82px;
+    left: 25px; }
+
+#thefast{
+    font-size: 14px;
+    width: 35px;
+    height: 9px;
+    opacity: 70%;
+    position: relative;
+    top: 23px;
+    left: 18px; }
+
+    .firstbut{
+        width: 149px;
+        height: 45px;
+        padding: 12px 16px 12px 16px;
+        opacity:0px;
+        background: rgb(47, 231, 222);
+        position: relative;
+        top: 167px;
+        left: 6px;
+       }
+       #learn{
+        width: 162px;
+        height: 20px;
+        font-size: 17px;
+        font-weight: 600;
+        line-height: 21.6px;
+        text-align: left;
+        color:  #FFFFFC;
+        position: relative;
+        top: 1px;
+        left: 13px;
+       }
+
+       .seconedclass{
+
+height: 1194px;
+
+width: 868px;
+
+display: flex;
+
+position: relative;
+
+bottom: -705px;
+
+left: -820px;
+}
+#im3{
+    height: 614px;
+    width: 629px;
+    position: relative;
+    top: -6px;
+    left: 492px;
+    border-radius: 50%;
+}
+#im4{
+    height: 543px;
+    width: 521px;
+    position: relative;
+    top: 14px;
+    left: -66px;
+    border-radius: 50%;
+}
+
+.robatic{
+    display: flex;
+    position: relative;
+    top: 861px;
+    left: -1681px;
+    flex-direction: column;
+    font-family: "Kanit", sans-serif; }
+
+    #news{
+        font-size: 17px;
+        width: 140px;
+        height: 43px;
+        opacity: 59%;
+        position: relative;
+        top: -6px;
+        left: 67px;
+    }
+
+    #robots{
+        font-size: 56px;
+        width: 558px;
+        height: -33px;
+        opacity: 82%;
+        position: relative;
+        top: 0px;
+        left: 4px;
+    }
+
+
+
+
+
+    #talkrepotrs{
+        font-size: 14px;
+        width: 0px;
+        height: 0px;
+        opacity: 108%;
+        position: relative;
+        top: 24px;
+        left: 42px;
+        }
+
+.im5{
+    width: -11px;
+    height: -13px;
+    position: relative;
+    top: 167px;
+    left: -133px;
+}
+#circ{
+
+width: 262px;
+
+height: 403px;
+
+position: relative;
+
+top: -38px;
+
+left: -137px;
+}
+
+.thirdclass{
+    width: 252px;
+    height: 308px;
+    display: flex;
+    position: relative;
+    top: 1528px;
+    left: -1963px;
+    bottom: 76px;
+    flex-direction: column;
+    align-items: flex-end;
+    align-content: stretch;
+    flex-wrap: wrap;
+    }
+
+#im6{
+    width: 315px;
+    height: 589px;
+    position: relative;
+    top: 132px;
+    left: -132px;
+    border-radius: 50%;
+}
+
+#backim6{
+    width: 428px;
+    height: 500px;
+    position: relative;
+    top: -23px;
+    left: -371px;
+    border-radius: 50%;
+}
+
+     
+.enginers{
+    width: 252px;
+    height: 308px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: relative;
+    top: 1613px;
+    left: -1819px;
+    font-family: "Kanit", sans-serif;
+}
+#roboteng{
+    font-size: 18px;
+    width: 172px;
+    height: 43px;
+    opacity: 59%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#techeng{
+    font-size: 46PX;
+    width: 334px;
+    height: 61px;
+    opacity: 83%;
+    position: relative;
+    top: -11px;
+    left: -16px;
+}
+
+#plentyoftalk{
+    font-size: 14px;
+    width: 110px;
+    height: 43px;
+    opacity: 93%;
+    position: relative;
+    top: 92px;
+    left: -41px;
+    font-weight: bold;
+}
+
+.icons{width: 106%;height: 359px;display: flex;position: relative;top: 331px;left: -339px;}
+
+
+
+.ico1{
+    border-radius: 50%;
+    background-color:rgb(47, 231, 222);
+    position: relative;
+    top: 1px;
+    left: -205px;
+    width: 186px;
+    height: 133px;
+}
+
+
+#icon1{
+    height: 69px;
+    width: 137px;
+    position: relative;
+    top: 33px;
+    left: 2px;
+    }
+
+
+.ico2{
+    border-radius: 50%;
+    background-color: rgb(47, 231, 222);
+    position: relative;
+    top: 0px;
+    left: 45px;
+    width: 381px;
+    height: 129px;
+}
+
+
+#icon2{
+    height: 56px;
+    width: 144px;
+    position: relative;
+    top: 37px;
+    left: 2px;
+    padding: 4px;
+    }
+
+
+
+    .ico3{
+        border-radius: 50%;
+        background-color: rgb(47, 231, 222);
+        position: relative;
+        top: 0px;
+        left: 297px;
+        width: 174px;
+        height: 136px;
+    }
+    
+
+    #icon3{
+        height: 64px;
+        width: 135px;
+        position: relative;
+        top: 33px;
+        left: 2px;
+        }
+
+
+.icotalk{
+    display: flex;
+    position: relative;
+    width: 0px;
+    height: 101px;
+    top: 350px;
+    left: -475px;
+    }
+
+
+.conceept{position: relative;top: 5px;left: -120px;font-family: "Kanit", sans-serif;}
+#conpt{
+    font-size: 43px;
+    position: relative;
+    top: -3px;
+    left: -73px;
+}
+#sample1{
+    font-size: 17px;
+    position: relative;
+    top: 16px;
+    left: -82px;
+}
+
+.techolgy2{
+    
+    position: relative;
+        top: 5px;
+        left: -120px;
+        font-family: "Kanit", sans-serif;
+
+}
+#tech2{
+    font-size: 43px;
+    position: relative;
+    top: -3px;
+    left: -73px;
+
+}
+#sample2{
+    font-size: 17px;
+    position: relative;
+    top: 16px;
+    left: -82px;
+}
+.airopots{
+    position: relative;
+    top: 5px;
+    left: -120px;
+    font-family: "Kanit", sans-serif;
+    width: 362px;
+}
+#hairopts{
+    font-size: 43px;
+    position: relative;
+    top: -3px;
+    left: -34px;
+}
+#sample3{
+    font-size: 17px;
+    position: relative;
+    top: 16px;
+    left: -82px;
+}
+
+#im13{
+    position: relative;
+    width: 249px;
+    height: 372px;
+    top: 13px;
+    left: -4px;
+}
+.insideph{
+    position: relative;
+    width: 80px;
+    height: 98px;
+    top: 391px;
+    left: 328px;
+}
+
+.isideph2{
+    height: 1194px;
+    width: 863px;
+    display: flex;
+    position: relative;
+    bottom: -705px;
+    left: -606px;
+    top: 482px;
+}
+#im11{
+    height: 527px;
+    width: 683px;
+    position: relative;
+    top: 20px;
+    left: -538px;
+    border-radius: 50%;
+}
+#im12{
+    height: 614px;
+    width: 661px;
+    position: relative;
+    top: 22px;
+    left: -6px;
+    border-radius: 50%;
+}
+
+
+
+
+
+
+
+
+.robatic2{
+    display: flex;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    flex-direction: column;
+    font-family: "Kanit", sans-serif;
+    }
+
+    #news2{
+        font-size: 17px;
+        width: 140px;
+        height: 43px;
+        opacity: 59%;
+        position: relative;
+        top: -6px;
+        left: 67px;
+    }
+
+    #robots2{
+        font-size: 56px;
+        width: 558px;
+        height: -33px;
+        opacity: 82%;
+        position: relative;
+        top: 0px;
+        left: 2px;
+    }
+
+
+
+
+
+    #talkrepotrs2{
+        font-size: 14px;
+        width: 0px;
+        height: 0px;
+        opacity: 108%;
+        position: relative;
+        top: 24px;
+        left: 71px;
+        font-weight: bold;
+        }
+
+
+
+        .firstbut{
+            width: 149px;
+            height: 45px;
+            padding: 12px 16px 12px 16px;
+            opacity:0px;
+            background:rgb(47, 231, 222);
+            position: relative;
+            top: 133px;
+            left: 82px;
+           }
+           #learn{
+            width: 162px;
+            height: 20px;
+            font-size: 17px;
+            font-weight: 600;
+            line-height: 21.6px;
+            text-align: left;
+            color:  #FFFFFC;
+            position: relative;
+            top: 1px;
+            left: 13px;
+           }
+
+
+
+           .im14{
+            width: -11px;
+            height: -13px;
+            position: relative;
+            top: 180px;
+            left: -821px;
+        }
+        #circ2{
+        
+width: 210px;
+        
+height: 405px;
+        
+position: relative;
+        
+top: -38px;
+        
+left: -137px;
+        }
+
+        .isideph4{
+            height: 304px;
+            width: 371px;
+            display: flex;
+            position: relative;
+            bottom: 0px;
+            left: -135px;
+            top: -195px;
+            flex-direction: column;
+        }
+        #im15{
+            height: 444px;
+            width: 507px;
+            position: relative;
+            top: 30px;
+            left: 0;
+            border-radius: 50%;
+        }
+        #im122{
+            height: 596px;
+            width: 230px;
+            position: relative;
+            top: -101px;
+            left: -19px;
+            border-radius: 50%;
+        }  
+      
+        
+        .amazing{
+            display: flex;
+            position: relative;
+            top: -305px;
+            left: -649px;
+            flex-direction: column;
+            font-family: "Kanit", sans-serif;
+            }
+        
+            #world{
+                font-size: 17px;
+                width: 156px;
+                height: 43px;
+                opacity: 66%;
+                position: relative;
+                top: 18px;
+                left: 56px;
+            }
+        
+            #amzrepot{
+                font-size: 56px;
+                width: 462px;
+                height: -33px;
+                opacity: 82%;
+                position: relative;
+                top: 0px;
+                left: 4px;
+            }
+        
+        
+        
+        
+        
+            #amaztalk{
+                font-size: 14px;
+                width: 0px;
+                height: 0px;
+                opacity: 108%;
+                position: relative;
+                top: 24px;
+                left: -14px;
+                font-weight: bold;
+                }
+        
+        
+                .firstbut{
+                    width: 149px;
+                    height: 45px;
+                    padding: 12px 16px 12px 16px;
+                    opacity:0px;
+                    background: rgb(47, 231, 222);
+                    position: relative;
+                    top: 126px;
+                    left: 10px;
+                   }
+ 
+   .footer{display: flex;
+    position: relative;
+    top: 236px;
+    left: -111px;
+    flex-direction: column;
+    height: 1247px;
+    width: 373px;
+}
+
+.son1{
+    width: 1344px;
+    height: 296px;
+    background-color:rgb(47, 231, 222);
+    display: flex;
+    justify-content: center;
+    align-content: flex-end;
+    align-items: center;
+    font-family: "Kanit", sans-serif;
+    
+}
+.son2{
+    
+
+}
+#imfoto{
+    width: 1344px;
+    height: 474px;
+    
+}
+.rite1{
+    display: flex;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    flex-direction: column;
+    font-family: "Kanit", sans-serif;
+    font-size: 17px;
+    font-weight: bold;
+    color: white;
+    
+}
+
+.rite2{
+    display: flex;
+    position: relative;
+    top: -3px;
+    left: 0px;
+    flex-direction: column;
+    font-family: "Kanit", sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+
+}
+
+.rite3{
+    display: flex;
+    position: relative;
+    top: -9px;
+    left: 0px;
+    flex-direction: column;
+    font-family: "Kanit", sans-serif;
+    font-size: 17px;
+    font-weight: bold;
+    color: white;
+}
+
+.rite4{
+    display: flex;
+    position: relative;
+    top: -18px;
+    left: 0px;
+    flex-direction: column;
+    font-family: "Kanit", sans-serif;
+    font-size: 17px;
+    font-weight: bold;
+    color: white;
+}
+
+.rite5{
+    display: flex;
+    position: relative;
+    top: -21px;
+    left: -19px;
+    flex-direction: column;
+    font-family: "Kanit", sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+}
+.lasttalk{
+    position: relative;
+    top: -259px;
+    left: 234px;
+    font-family: "Kanit", sans-serif;
+    width: 707px;
+    height: 0px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-content: space-between;
+    align-items: center;
+    justify-content: center;
+}
+#last1{
+    position: relative;
+    top: -96px;
+    left: -122px;
+    font-family: "Kanit", sans-serif;
+    width: 707px;
+    height: 0px;
+}
+#last2{
+    position: relative;
+    top: -0px;
+    left: 0px;
+    font-family: "Kanit", sans-serif;
+    width: 707px;
+    height: 0px;
+}
+
+
